@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+title: HackaTUM 2021
+description: Here you can find all presented links regarding the Azure services presented during the HackaTUM 2021
+
+show_downloads: false
