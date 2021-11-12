@@ -19,7 +19,7 @@ This list is definitely not complete, but should give you an overview about some
 - Use your development language of choice, such as C#, Java, JavaScript, PowerShell, and Python
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/app-service/web)!
 
-### <img src="https://user-images.githubusercontent.com/50545335/141495726-944c77d9-34ce-497c-9d2e-c282e37c2d0e.png" width="20" height="20">Azure Functions
+### <img src="https://user-images.githubusercontent.com/50545335/141511466-4343e5b1-6f60-412a-a652-4238fa4dd03c.png" width="20" height="20">Azure Functions
 - Serverless compute
 - Concentrate on your algorithm – Let Azure do the rest
 - Use your development language of choice, such as C#, Java, JavaScript, PowerShell, and Python
@@ -27,20 +27,20 @@ This list is definitely not complete, but should give you an overview about some
 - An easy to follow instruction for building a first Azure Function connected to a Azure table storage you can find [here](https://adamtheautomator.com/azure-functions-tutorial/#Tutorial_Creating_an_Event_Logger_Azure_Function)
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/functions)!
 
-### <img src="https://user-images.githubusercontent.com/50545335/141495950-c48a750b-7ebe-4608-9c1f-6c0d42fbe501.png" width="20" height="20">Azure Cognitive Services
+### <img src="https://user-images.githubusercontent.com/50545335/141511430-49eadf69-347e-4be1-b04f-ef947f8c77be.png" width="20" height="20">Azure Cognitive Services
 - Build human-like apps
 - Use pre-built AI models
 - [Custom Vision Service portal] (https://www.customvision.ai/) for graphical 
 - [Artist demo](https://icebeam7.github.io/workshop-ai-100/tutorials/vision/)
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/cognitive-services)!
 
-### <img src="https://user-images.githubusercontent.com/50545335/141496946-2565ca37-4c65-4372-84d0-d6d54d3e0636.png" width="20" height="20">Azure Logic Apps
+### <img src="https://user-images.githubusercontent.com/50545335/141511496-e3d1c0c4-70f3-445d-aead-9f929bd8bbc7.png" width="20" height="20">Azure Logic Apps
 - Serverless Workflow
 - Connect your app, your code & external services
 - [Find here the respective documentation](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)!
 
 
-## <img src="https://user-images.githubusercontent.com/50545335/141497800-d1edaa4c-dda8-4df1-bf60-430aba014bd6.png" width="20" height="20">Microsoft Power Apps
+## <img src="https://user-images.githubusercontent.com/50545335/141511527-6fa8a995-a7d2-4b5e-aecd-d569fbbc2327.png" width="20" height="20">Microsoft Power Apps
 
 Power Apps is a low-code/no-code platform where you can quickly build prototypes for the hackathon. However, it is not a tool which you can use to build apps for the Apple App Store or Google Play Store.
 
@@ -50,7 +50,7 @@ Power Apps is a low-code/no-code platform where you can quickly build prototypes
 - Start with data or templates – or from scratch
 - Apps for Tables & Phones
 - Connect to your data source
-- [Open https://make.preview.powerapps.com/](https://make.preview.powerapps.com/) to get started
+- Open [https://make.preview.powerapps.com/](https://make.preview.powerapps.com/) to get started
 
 
 ## Skill yourself
