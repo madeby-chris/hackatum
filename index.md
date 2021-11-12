@@ -12,14 +12,14 @@ For the first steps with Azure I recommend to visit the official **"Get started"
 
 This list is definitely not complete, but should give you an overview about some Azure services, you could use during the upcoming days.
 
-### <img align=left src="https://user-images.githubusercontent.com/50545335/141495037-61a5e392-d9b1-44f2-b52b-3c0e3fab6c5d.png" width="20" height="20">Azure Web App
+### <img src="https://user-images.githubusercontent.com/50545335/141495037-61a5e392-d9b1-44f2-b52b-3c0e3fab6c5d.png" width="20" height="20">Azure Web App
 - Best starting point for building your web application
 - Fully managed & scalable
 - GitHub integration
 - Use your development language of choice, such as C#, Java, JavaScript, PowerShell, and Python
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/app-service/web)!
 
-### <img align=left src="https://user-images.githubusercontent.com/50545335/141495726-944c77d9-34ce-497c-9d2e-c282e37c2d0e.png" width="20" height="20">Azure Functions
+### <img src="https://user-images.githubusercontent.com/50545335/141495726-944c77d9-34ce-497c-9d2e-c282e37c2d0e.png" width="20" height="20">Azure Functions
 - Serverless compute
 - Concentrate on your algorithm – Let Azure do the rest
 - Use your development language of choice, such as C#, Java, JavaScript, PowerShell, and Python
@@ -27,20 +27,20 @@ This list is definitely not complete, but should give you an overview about some
 - An easy to follow instruction for building a first Azure Function connected to a Azure table storage you can find [here](https://adamtheautomator.com/azure-functions-tutorial/#Tutorial_Creating_an_Event_Logger_Azure_Function)
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/functions)!
 
-### <img align=left src="https://user-images.githubusercontent.com/50545335/141495950-c48a750b-7ebe-4608-9c1f-6c0d42fbe501.png" width="20" height="20">Azure Cognitive Services
+### <img src="https://user-images.githubusercontent.com/50545335/141495950-c48a750b-7ebe-4608-9c1f-6c0d42fbe501.png" width="20" height="20">Azure Cognitive Services
 - Build human-like apps
 - Use pre-built AI models
 - [Custom Vision Service portal] (https://www.customvision.ai/) for graphical 
 - [Artist demo](https://icebeam7.github.io/workshop-ai-100/tutorials/vision/)
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/cognitive-services)!
 
-### <img align=left src="https://user-images.githubusercontent.com/50545335/141496946-2565ca37-4c65-4372-84d0-d6d54d3e0636.png" width="20" height="20">Azure Logic Apps
+### <img src="https://user-images.githubusercontent.com/50545335/141496946-2565ca37-4c65-4372-84d0-d6d54d3e0636.png" width="20" height="20">Azure Logic Apps
 - Serverless Workflow
 - Connect your app, your code & external services
 - [Find here the respective documentation](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)!
 
 
-## <img align=left src="https://user-images.githubusercontent.com/50545335/141497800-d1edaa4c-dda8-4df1-bf60-430aba014bd6.png" width="20" height="20">Microsoft Power Apps
+## <img src="https://user-images.githubusercontent.com/50545335/141497800-d1edaa4c-dda8-4df1-bf60-430aba014bd6.png" width="20" height="20">Microsoft Power Apps
 
 Power Apps is a low-code/no-code platform where you can quickly build prototypes for the hackathon. However, it is not a tool which you can use to build apps for the Apple App Store or Google Play Store.
 
@@ -88,4 +88,4 @@ During my studies, I also worked two years as a working student for Microsoft, a
 
 ### Feedback or Questions
 
-If you like, you can give anonymous feedback regarding the session [here](https://forms.office.com/r/gKmdLTkbJu), which I can take into account for future events.
+If you like, you can give anonymous feedback regarding the session [here](https://forms.office.com/r/gKmdLTkbJu), which I can consider for future events.
