@@ -58,13 +58,28 @@ Power Apps is a low-code/no-code platform where you can quickly build prototypes
 Microsoft offers a variety of learning paths and certificates. There are multiple fundamental certificates which you can complete free of charge. Visit Microsoft docs and check out the [Microsoft Virtual Training Days](https://www.microsoft.com/de-de/techwiese/events/microsoft-training-days.aspx). 
 
 
+## You would like to work in tech?
+
+During my studies, I also worked two years as a working student for Microsoft, and I can just say, it's a enjoyable and interesting working environment, so if you would like to work in tech - just give it a try and apply, there are always open positions for students as well as early in career opportunities.
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/50545335/141500012-a209f98e-cb8f-44fd-a503-bb9513614b8d.png)
 
+**Internships @ Microsoft**
+
+[Internship Opportunities: Services - Customer Engineering in Munich, Bavaria, Germany | Services at Microsoft](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcareers.microsoft.com%2Fstudents%2Fus%2Fen%2Fjob%2F1202248%2FInternship-Opportunities-Services-Customer-Engineering&data=04%7C01%7Cadriapan%40microsoft.com%7C88e698e4438a4624c09608d9a43de86e%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637721408060794266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=6CqRXpNK5u9z2T%2BqSVbY%2Bv401O5kCebOHJ5X8weKfg8%3D&reserved=0)
+
+[Internship Opportunities: Cloud Solution Architecture in Munich, Bavaria, Germany | Customer Success at Microsoft](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcareers.microsoft.com%2Fstudents%2Fus%2Fen%2Fjob%2F1135921%2FInternship-Opportunities-Cloud-Solution-Architecture&data=04%7C01%7Cadriapan%40microsoft.com%7C88e698e4438a4624c09608d9a43de86e%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637721408060794266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=9q%2FhovVjBWmWyAREHlwc90j9HlZWNhNhHSMDT2isNT4%3D&reserved=0)
 
 
+**Aspire @ Microsoft** 
 
+[Customer Success: Full-time Opportunities for University Graduates  in Munich, Bavaria, Germany | Customer Success at Microsoft](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcareers.microsoft.com%2Fstudents%2Fus%2Fen%2Fjob%2F1145514%2FCustomer-Success-Full-time-Opportunities-for-University-Graduates%25E2%2580%25AF&data=04%7C01%7Cadriapan%40microsoft.com%7C88e698e4438a4624c09608d9a43de86e%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637721408060804260%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dduaxsf%2FJBP6x5J9ukqiiAOwdWSw4lsHztL0k3y86lw%3D&reserved=0)
+
+[Services – Customer Engineer: Full-time Opportunities for University Graduates  in Munich, Bavaria, Germany | Services at Microsoft](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcareers.microsoft.com%2Fstudents%2Fus%2Fen%2Fjob%2F1145535%2FServices-Customer-Engineer-Full-time-Opportunities-for-University-Graduates%25E2%2580%25AF&data=04%7C01%7Cadriapan%40microsoft.com%7C88e698e4438a4624c09608d9a43de86e%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637721408060814255%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=xHieJ8JiA8Rfo6SwS8drMAUD%2BgzVq4gl6sJODN%2BfI7c%3D&reserved=0)
 
 
 
