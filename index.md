@@ -53,10 +53,14 @@ Power Apps is a low-code/no-code platform where you can quickly build prototypes
 - [Open https://make.preview.powerapps.com/](https://make.preview.powerapps.com/) to get started
 
 
+## Skill yourself
+
+Microsoft offers a variety of learning paths and certificates. There are multiple fundamental certificates which you can complete free of charge. Visit Microsoft docs and check out the [Microsoft Virtual Training Days](https://www.microsoft.com/de-de/techwiese/events/microsoft-training-days.aspx). 
 
 
 
 
+![image](https://user-images.githubusercontent.com/50545335/141500012-a209f98e-cb8f-44fd-a503-bb9513614b8d.png)
 
 
 
