@@ -8,7 +8,7 @@ For the first steps with Azure I recommend to visit the official **"Get started"
 
 <img src="https://user-images.githubusercontent.com/50545335/141493028-8cc67cf2-fc30-4feb-aa5f-eab84a94966e.png" width="20" height="20"> After you created you account, you have two options to deploy and manage Azure resources: the Azure portal and your command line. The [Azure portal](https://portal.azure.com) is a graphical way of deploying and managing Azure resources. Where you can e.g., use the **Quickstart Center** to rapidly deploy your first cloud services.
 
-## Useful Azure Services
+## Useful Microsoft Azure Services
 
 This list is definitely not complete, but should give you an overview about some Azure services, you could use during the upcoming days.
 
