@@ -30,9 +30,37 @@ This list is definitely not complete, but should give you an overview about some
 ### <img src="https://user-images.githubusercontent.com/50545335/141495950-c48a750b-7ebe-4608-9c1f-6c0d42fbe501.png" width="20" height="20"> Azure Cognitive Services
 - Build human-like apps
 - Use pre-built AI models
-- [Custom Vision Service portal] (https://www.customvision.ai/) for grpahical 
+- [Custom Vision Service portal] (https://www.customvision.ai/) for graphical 
 - [Artist demo](https://icebeam7.github.io/workshop-ai-100/tutorials/vision/)
-- [Find here the respective documentation](https://azure.microsoft.com/en-us/services/cognitive-services/ )!
+- [Find here the respective documentation](https://azure.microsoft.com/en-us/services/cognitive-services)!
+
+### <img src="https://user-images.githubusercontent.com/50545335/141496946-2565ca37-4c65-4372-84d0-d6d54d3e0636.png" width="20" height="20"> Azure Logic Apps
+- Serverless Workflow
+- Connect your app, your code & external services
+- [Find here the respective documentation](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)!
+
+
+## <img src="https://user-images.githubusercontent.com/50545335/141497800-d1edaa4c-dda8-4df1-bf60-430aba014bd6.png" width="20" height="20"> Microsoft Power Apps
+
+Power Apps is a low-code/no-code platform where you can quickly build prototypes for the hackathon. However, it is not a tool which you can use to build apps for the Apple App Store or Google Play Store.
+
+- Graphical Editor
+- Rapid App Development
+- Click & Point UI
+- Start with data or templates – or from scratch
+- Apps for Tables & Phones
+- Connect to your data source
+- [Open https://make.preview.powerapps.com/](https://make.preview.powerapps.com/) to get started
+
+
+
+
+
+
+
+
+
+
 
 
 
