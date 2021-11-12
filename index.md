@@ -6,20 +6,20 @@ As promised, you can find all the important information here so that you can use
 
 For the first steps with Azure I recommend to visit the official **"Get started"** guide you can find [HERE](https://azure.microsoft.com/en-us/get-started). There is a special offer for students who would like to try Azure where you can use $100 in 12 months and also have access to tools such as Visual Studio Code -> [Try Azure for Students free today](https://azure.microsoft.com/en-us/free/students/). Additionally, you will receive Azure credits for the challenges from Microsoft for the event.
 
-<img src="https://user-images.githubusercontent.com/50545335/141493028-8cc67cf2-fc30-4feb-aa5f-eab84a94966e.png" width="20" height="20"> After you created you account, you have two options to deploy and manage Azure resources: the Azure portal and your command line. The [Azure portal](https://portal.azure.com) is a graphical way of deploying and managing Azure resources. Where you can e.g., use the **Quickstart Center** to rapidly deploy your first cloud services.
+<img src="https://user-images.githubusercontent.com/50545335/141493028-8cc67cf2-fc30-4feb-aa5f-eab84a94966e.png" width="25" height="25"> After you created you account, you have two options to deploy and manage Azure resources: the Azure portal and your command line. The [Azure portal](https://portal.azure.com) is a graphical way of deploying and managing Azure resources. Where you can e.g., use the **Quickstart Center** to rapidly deploy your first cloud services.
 
 ## Useful Microsoft Azure Services
 
 This list is definitely not complete, but should give you an overview about some Azure services, you could use during the upcoming days.
 
-### <img src="https://user-images.githubusercontent.com/50545335/141495037-61a5e392-d9b1-44f2-b52b-3c0e3fab6c5d.png" width="20" height="20">Azure Web App
+### <img src="https://user-images.githubusercontent.com/50545335/141511813-e91de2b1-f653-4796-9cf0-a1bcfb279699.png" width="25" height="25">Azure Web App
 - Best starting point for building your web application
 - Fully managed & scalable
 - GitHub integration
 - Use your development language of choice, such as C#, Java, JavaScript, PowerShell, and Python
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/app-service/web)!
 
-### <img src="https://user-images.githubusercontent.com/50545335/141511466-4343e5b1-6f60-412a-a652-4238fa4dd03c.png" width="20" height="20">Azure Functions
+### <img src="https://user-images.githubusercontent.com/50545335/141511466-4343e5b1-6f60-412a-a652-4238fa4dd03c.png" width="25" height="25">Azure Functions
 - Serverless compute
 - Concentrate on your algorithm – Let Azure do the rest
 - Use your development language of choice, such as C#, Java, JavaScript, PowerShell, and Python
@@ -27,20 +27,20 @@ This list is definitely not complete, but should give you an overview about some
 - An easy to follow instruction for building a first Azure Function connected to a Azure table storage you can find [here](https://adamtheautomator.com/azure-functions-tutorial/#Tutorial_Creating_an_Event_Logger_Azure_Function)
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/functions)!
 
-### <img src="https://user-images.githubusercontent.com/50545335/141511430-49eadf69-347e-4be1-b04f-ef947f8c77be.png" width="20" height="20">Azure Cognitive Services
+### <img src="https://user-images.githubusercontent.com/50545335/141511430-49eadf69-347e-4be1-b04f-ef947f8c77be.png" width="25" height="25">Azure Cognitive Services
 - Build human-like apps
 - Use pre-built AI models
 - [Custom Vision Service portal] (https://www.customvision.ai/) for graphical 
 - [Artist demo](https://icebeam7.github.io/workshop-ai-100/tutorials/vision/)
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/cognitive-services)!
 
-### <img src="https://user-images.githubusercontent.com/50545335/141511496-e3d1c0c4-70f3-445d-aead-9f929bd8bbc7.png" width="20" height="20">Azure Logic Apps
+### <img src="https://user-images.githubusercontent.com/50545335/141511496-e3d1c0c4-70f3-445d-aead-9f929bd8bbc7.png" width="25" height="25">Azure Logic Apps
 - Serverless Workflow
 - Connect your app, your code & external services
 - [Find here the respective documentation](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)!
 
 
-## <img src="https://user-images.githubusercontent.com/50545335/141511527-6fa8a995-a7d2-4b5e-aecd-d569fbbc2327.png" width="20" height="20">Microsoft Power Apps
+## <img src="https://user-images.githubusercontent.com/50545335/141511527-6fa8a995-a7d2-4b5e-aecd-d569fbbc2327.png" width="25" height="25">Microsoft Power Apps
 
 Power Apps is a low-code/no-code platform where you can quickly build prototypes for the hackathon. However, it is not a tool which you can use to build apps for the Apple App Store or Google Play Store.
 
