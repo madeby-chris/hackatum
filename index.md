@@ -1,4 +1,4 @@
-## What do you find here?
+### What do you find here?
 
 As promised, you can find all the important information here so that you can use Microsoft's cloud services for the challenges in the upcoming days as well as for your further studies and work. This is not an official website provided by Microsoft. It is just a personal summary of me for you, the hackaTUM 2021 participants.
 
@@ -8,18 +8,31 @@ For the first steps with Azure I recommend to visit the official **"Get started"
 
 <img src="https://user-images.githubusercontent.com/50545335/141493028-8cc67cf2-fc30-4feb-aa5f-eab84a94966e.png" width="20" height="20"> After you created you account, you have two options to deploy and manage Azure resources: the Azure portal and your command line. The [Azure portal](https://portal.azure.com) is a graphical way of deploying and managing Azure resources. Where you can e.g., use the **Quickstart Center** to rapidly deploy your first cloud services.
 
-### Useful Azure Services
+## Useful Azure Services
 
 This list is definitely not complete, but should give you an overview about some Azure services, you could use during the upcoming days.
 
-## <img src="https://user-images.githubusercontent.com/50545335/141495037-61a5e392-d9b1-44f2-b52b-3c0e3fab6c5d.png" width="20" height="20"> Azure Web App
+### <img src="https://user-images.githubusercontent.com/50545335/141495037-61a5e392-d9b1-44f2-b52b-3c0e3fab6c5d.png" width="20" height="20"> Azure Web App
 - Best starting point for building your web application
 - Fully managed & scalable
 - GitHub integration
 - Use your development language of choice, such as C#, Java, JavaScript, PowerShell, and Python
-- Pay only for the time your code runs and trust Azure to scale as needed
 - [Find here the respective documentation](https://azure.microsoft.com/en-us/services/app-service/web)!
-- 
+
+### <img src="https://user-images.githubusercontent.com/50545335/141495726-944c77d9-34ce-497c-9d2e-c282e37c2d0e.png" width="20" height="20"> Azure Functions
+- Serverless compute
+- Concentrate on your algorithm – Let Azure do the rest
+- Use your development language of choice, such as C#, Java, JavaScript, PowerShell, and Python
+- Pay only for the time your code runs and trust Azure to scale as needed
+- An easy to follow instruction for building a first Azure Function connected to a Azure table storage you can find [here](https://adamtheautomator.com/azure-functions-tutorial/#Tutorial_Creating_an_Event_Logger_Azure_Function)
+- [Find here the respective documentation](https://azure.microsoft.com/en-us/services/functions)!
+
+### <img src="https://user-images.githubusercontent.com/50545335/141495950-c48a750b-7ebe-4608-9c1f-6c0d42fbe501.png" width="20" height="20"> Azure Cognitive Services
+- Build human-like apps
+- Use pre-built AI models
+- [Custom Vision Service portal] (https://www.customvision.ai/) for grpahical 
+- [Artist demo](https://icebeam7.github.io/workshop-ai-100/tutorials/vision/)
+- [Find here the respective documentation](https://azure.microsoft.com/en-us/services/cognitive-services/ )!
 
 
 
