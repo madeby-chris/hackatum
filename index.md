@@ -62,7 +62,7 @@ Microsoft offers a variety of learning paths and certificates. There are multipl
 
 ## You would like to work in tech?
 
-During my studies, I also worked two years as a working student for Microsoft, and I can just say, it's a enjoyable and interesting working environment, so if you would like to work in tech - just give it a try and apply, there are always open positions for students as well as early in career opportunities.
+During my studies, I also worked two years as a working student for Microsoft, and I can just say, it's an enjoyable and interesting working environment, so if you would like to work in tech - just give it a try and apply, there are always open positions for students as well as early in career opportunities.
 
 
 **Internships @ Microsoft**
