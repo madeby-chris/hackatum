@@ -53,6 +53,7 @@ Power Apps is a low-code/no-code platform where you can quickly build prototypes
 - Apps for Tables & Phones
 - Connect to your data source
 - Open [https://make.preview.powerapps.com/](https://make.preview.powerapps.com/) to get started
+- [Find here the respective documentation](https://docs.microsoft.com/en-us/powerapps/)!
 
 
 ## Skill yourself
